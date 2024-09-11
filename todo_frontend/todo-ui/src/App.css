@@ -1,0 +1,58 @@
+.brand h2{
+    color: #003285;
+}
+
+.nav{
+    color: #2A629A;
+}
+.footer{
+    background-color: #40679E;
+    color: white;
+}
+.head-color{
+    color: #40679E;
+}
+.list-style-type{
+    list-style-type: none;
+}
+.title{
+   font-family:'Courier New', Courier, monospace;
+}
+.task{
+    font-size: 50%;
+    color: #003285;
+    text-transform: uppercase;
+}
+.mgmt{
+    font-size: 50%;
+    text-transform: uppercase;
+}
+.app{
+    font-size: 50%;
+    text-transform: uppercase;
+}
+.why{
+    margin-top: 5%;
+    color: #003285;
+    font-family:'Courier New', Courier, monospace;
+
+}
+.free{
+    margin-top: 5%;
+    color: #003285;
+    font-family:'Courier New', Courier, monospace;
+
+}
+.trusted{
+    font-family:'Courier New', Courier, monospace; 
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 5%;
+}
+.trusted span{
+    color: #2A629A;
+}
+
+
+
+
